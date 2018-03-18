@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HARRIMARGONO_1202151230_STUDYCASE4</string>
+    <string-array name="namaMhs">
+        <item>Asep Junaedi</item>
+        <item>Hermanwan Kilikitik</item>
+        <item>Adrian Kokorobot</item>
+        <item>Resi Kukuruyuk</item>
+        <item>Tikusruk Kasawah</item>
+        <item>Bala Bulaeu</item>
+        <item>Lobak Kahayang</item>
+        <item>Lalieur Ngaran</item>
+        <item>Sigeulis Edan</item>
+        <item>Sikasep Leuwihedan</item>
+    </string-array>
+</resources>
