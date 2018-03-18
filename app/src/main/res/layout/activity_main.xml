@@ -22,13 +22,13 @@
 
     <Button
         android:id="@+id/buttonList"
-        android:layout_width="wrap_content"
+        android:layout_width="192dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="12dp"
         android:background="@color/colorAccent"
         android:onClick="mulai"
-        android:text="Mulai AsyncTask"
+        android:text="Mulai Async Task"
         android:textColor="@android:color/background_light" />
 
     <ListView
