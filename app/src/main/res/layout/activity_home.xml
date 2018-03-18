@@ -9,8 +9,7 @@
     android:paddingRight="16dp"
     android:paddingTop="16dp"
     android:paddingBottom="16dp"
-    tools:context="com.example.android.harrimargono_1202151230_studycase4.HomeActivity"
-    android:background="@color/co">
+    tools:context="com.example.android.harrimargono_1202151230_studycase4.HomeActivity">
 
 
     <TextView
