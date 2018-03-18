@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">HARRIMARGONO_1202151230_STUDYCASE4</string>
+    <string name="klik_utk_mencari_gambar">Klik utk mencari gambar</string>
     <string-array name="namaMhs">
         <item>Asep Junaedi</item>
         <item>Hermanwan Kilikitik</item>

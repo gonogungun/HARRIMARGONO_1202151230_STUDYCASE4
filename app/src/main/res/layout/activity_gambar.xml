@@ -15,8 +15,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="CARI GAMBAR"
-        android:textColor="@android:color/holo_blue_dark"
+        android:text="Cari Gambar"
         android:textSize="24dp" />
 
     <EditText
@@ -30,13 +29,13 @@
         android:singleLine="true" />
 
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="223dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="16dp"
         android:background="@color/colorAccent"
         android:onClick="cari"
-        android:text="Klik untuk mencari gambar"
+        android:text="@string/klik_utk_mencari_gambar"
         android:textColor="@android:color/background_light" />
 
     <ImageView
